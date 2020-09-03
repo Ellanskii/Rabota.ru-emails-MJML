@@ -1,0 +1,16 @@
+<mjml>
+  <mj-body>
+    <mj-column background-color="#fff">
+      <mj-image src="https://media.rabota.ru/processor/blogs/post_horizontal_800/2020/07/31/image.jpg"></mj-image>
+      <mj-text font-weight="light" align="left" font-size="14px" color="#8b9496" font-family="helvetica">
+        13 июля, 20:13
+      </mj-text>
+
+      <mj-text font-weight="bold" align="left" font-size="16px" color="#000" font-family="helvetica">
+        Уволился со старой работы, а на новой отказались брать. Кто прав?
+      </mj-text>
+      <mj-text align="justify" font-size="13px" color="#000" font-family="helvetica">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</mj-text>
+      <mj-button href="https://nevolk.rabota.ru/post/kak-otvechat-na-vopros-pochemu-vy-ushli-s-prezhnej-raboty-5758" background-color="#1D7FC7" border-radius="4px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+    </mj-column>
+  </mj-body>
+</mjml>

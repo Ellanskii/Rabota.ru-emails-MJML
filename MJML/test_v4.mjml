@@ -1,0 +1,41 @@
+<mjml>
+  <mj-body background-color="#f2f5f9">
+    <mj-section background-color="#3495db">
+      <mj-column>
+        <!-- <mj-image width="162px" src="https://media.rabota.ru/processor/messenger/original/2020/02/29/logo-blue_2.png"></mj-image> -->
+        <mj-navbar base-url="https://nevolk.rabota.ru/" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link href="/category/poisk" color="#ffffff">Поиск</mj-navbar-link>
+          <mj-navbar-link href="/category/poisk" color="#ffffff">Стабильность</mj-navbar-link>
+          <mj-navbar-link href="/category/poisk" color="#ffffff">Рост</mj-navbar-link>
+          <mj-navbar-link href="/category/poisk" color="#ffffff">Деньги</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image align="left" width="208px" src="https://media.rabota.ru/processor/messenger/original/2020/02/29/logo-blue_2.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image align="left" width="162px" src="https://nevolk.rabota.ru/_nuxt/img/nevolk.8debc36.svg"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f3f3f3">
+      <mj-column>
+        <mj-image width="400px" src="https://media.rabota.ru/processor/blogs/post_horizontal_800/2020/07/29/mama.jpg"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-text font-weight="bold" align="justify" font-size="24px" color="#000" font-family="helvetica">Как заработать денег, если у вас маленький ребенок</mj-text>
+        <mj-text align="justify" font-size="15px" color="#000" font-family="helvetica">С рождением ребенка появляются и новые обязанности, которые часто сопряжены с дополнительными финансовыми тратами. В таких случаях жизнь заставляет выйти на работу до окончания декрета.
+          Мы разобрались, какая работа подойдет тем, кто собирается или уже ушел в декретный отпуск.</mj-text>
+        <mj-button background-color="#1D7FC7" border-radius="4px" font-family="helvetica" font-size="12px">READ MORE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-include path="./components/article-card.mjml" />
+      <mj-include path="./components/article-card.mjml" />
+      <!-- <mj-include path="./components/article-card.mjml" /> -->
+    </mj-section>
+  </mj-body>
+</mjml>
